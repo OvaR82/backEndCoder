@@ -1,0 +1,15 @@
+{
+  "name": "expressavanzado",
+  "version": "1.0.0",
+  "description": "Implementación de una API RESTful",
+  "main": "src/principal.js",
+  "scripts": {
+    "start":"node src/principal.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruben",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

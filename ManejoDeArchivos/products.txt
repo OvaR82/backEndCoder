@@ -1,0 +1,1 @@
+[{"título":"Scout Trooper","precio":200,"thumbnail":"https://starwarsjedifallenorder.fandom.com/wiki/Scout_Troopers","id":1}]
