@@ -1,0 +1,17 @@
+[
+    {
+        "título":"Scout Trooper",
+        "precio":200,
+        "thumbnail":"https://starwarsjedifallenorder.fandom.com/wiki/Scout_Troopers"
+    }
+    {
+        "título":"Stormtrooper",
+        "precio":150,
+        "thumbnail":"https://starwarsjedifallenorder.fandom.com/wiki/Stormtroopers"
+    }
+    {
+        "título":"Heavy Assault Stormtroopers",
+        "precio":300,
+        "thumbnail":"https://starwarsjedifallenorder.fandom.com/wiki/Heavy_Assault_Stormtroopers"
+    }
+]
