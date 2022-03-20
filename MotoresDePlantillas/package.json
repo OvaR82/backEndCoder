@@ -4,13 +4,16 @@
   "description": "Incorporando Handlebars",
   "main": "index.js",
   "scripts": {
-    "start":"node src/principal.js",
+    "start": "node src/principal.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^3.1.6",
     "express": "^4.17.3",
+    "express-handlebars": "^6.0.3",
+    "pug": "^3.0.2",
     "socket.io": "^4.4.1"
   }
 }
